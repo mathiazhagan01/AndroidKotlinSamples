@@ -3,6 +3,10 @@ Blog for sample android projects written in Kotlin
 
 https://androidkotlinsamples.wordpress.com
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [![](https://az743702.vo.msecnd.net/cdn/kofi4.png?v=b)](https://ko-fi.com/A8817MW)
 
 ### LICENSE
